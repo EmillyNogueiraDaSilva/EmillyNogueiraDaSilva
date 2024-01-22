@@ -19,6 +19,7 @@ Olá! 👋 Eu sou Emilly Nogueira.
   <a href = "mailto:emillynogueiradasilva9@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/emilly-silva-4461242a5" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-![Design sem nome (3)](https://github.com/EmillyNogueiraDaSilva/EmillyNogueiraDaSilva/assets/157144329/ae492c8b-8f7c-401e-b3c9-f0e6e2bc5fc2)
+![Design sem nome (3) (1)](https://github.com/EmillyNogueiraDaSilva/EmillyNogueiraDaSilva/assets/157144329/cc4423ae-5518-4121-a206-8eec0f08ccfa)
+
 
 </div>
