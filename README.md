@@ -14,7 +14,7 @@
 <div align="center">
   <a href="https://github.com/EmillyNogueiraDaSilva">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EmillyNogueiraDaSilva&show_icons=true&theme=Blue&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmillyNogueiraDaSilva&layout=compact&langs_count=7&theme=Blue"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EmillyNogueiraDaSilva&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=Blue&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
