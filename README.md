@@ -1,6 +1,6 @@
 <h2 align="left">Olá!👋 Eu sou Emilly Nogueira ☺️ Bem vindos ao meu GitHub. 🌐</h2>
 
- - *Iniciando no curso de Analise e Desenvolvimento de Sistemas na Fema* 📖
+ - *Cursando Analise e Desenvolvimento de Sistemas na Fema* 📖
 
  - *Estagiando no laboratório de Informática na Fema* 📖
  
