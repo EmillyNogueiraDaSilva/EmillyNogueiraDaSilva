@@ -6,7 +6,7 @@
  
  - *Técnica em Informática para Internet, pela ETEC - Assis, SP* 💻 
    
- - *"Quando uma coisa é importante para você, lute por ela"* 🎮
+ - *"Esforça-te e tem bom ânimo; não temas, nem te apavores, porque o Senhor teu Deus é contigo..."* 🎮
 ###
 
 ###
